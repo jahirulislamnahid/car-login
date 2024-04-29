@@ -1,0 +1,13 @@
+D:\semester 6\OOP2\Car\Car\bin\Debug\Car.exe.config
+D:\semester 6\OOP2\Car\Car\bin\Debug\Car.exe
+D:\semester 6\OOP2\Car\Car\bin\Debug\Car.pdb
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.Crud.resources
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.Form1.resources
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.Log99.resources
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.Properties.Resources.resources
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.Regi.resources
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.csproj.GenerateResource.cache
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.exe
+D:\semester 6\OOP2\Car\Car\obj\Debug\Car.pdb
